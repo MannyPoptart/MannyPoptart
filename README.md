@@ -1,5 +1,4 @@
 # Manny Aguilera
-
 > About me: I am in my fifth year of college and hoping to become a software engineer or game developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyPoptart)](https://github.com/MannyPoptart/github-readme-stats) 
@@ -22,7 +21,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Interests
+## Interests
 - Software Development
 - Game Development
 - Cybersecurity
