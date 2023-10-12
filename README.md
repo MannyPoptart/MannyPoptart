@@ -1,7 +1,7 @@
 # Manny Aguilera
 > About me: I am in my fifth year of college and hoping to become a software engineer or game developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyPoptart\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) ![hehe](https://github.com/MannyPoptart/MannyPoptart/assets/129777127/83a0c19e-f74c-446a-9045-0c41d3972292)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MannyPoptart&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) ![hehe](https://github.com/MannyPoptart/MannyPoptart/assets/129777127/83a0c19e-f74c-446a-9045-0c41d3972292)
 
 ## Links
 - Github -> https://github.com/MannyPoptart
