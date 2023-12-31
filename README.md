@@ -22,6 +22,7 @@
 
 ## Interests
 - Software Development
+- Web Development
 - Game Development
 - Cybersecurity
 - Graphics Design
